@@ -63,7 +63,7 @@ resend.sendEmail(
     from: 'you@example.com',
     to: 'user@gmail.com',
     subject: 'hello world',
-    text: '<strong>it works!</strong>',
+    html: '<strong>it works!</strong>',
 );
 ```
 
