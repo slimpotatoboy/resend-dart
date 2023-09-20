@@ -1,6 +1,6 @@
 name: resend
 description: Dart Package for resend
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/slimpotatoboy/resend
 
 environment:

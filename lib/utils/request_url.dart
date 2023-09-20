@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 import 'package:resend/resend.dart';
 
 Future requestUrl(String postBody) async {
-  Uri url = Uri.parse("https://api.resend.com");
+  Uri url = Uri.parse("https://api.resend.com/emails");
   final response = await http.post(
     url,
     headers: {

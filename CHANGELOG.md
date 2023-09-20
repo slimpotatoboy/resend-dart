@@ -1,3 +1,6 @@
+## 1.0.0
+
+- Base Url Updated
 ## 0.0.1
 
 - Initial Release
